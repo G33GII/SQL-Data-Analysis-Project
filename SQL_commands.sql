@@ -1,4 +1,4 @@
-sudo mysql
+-- SQL Query Analysing NetflixShowsDB
 
 CREATE DATABASE NetflixShowsDB;
 USE NetflixShowsDB;
